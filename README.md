@@ -13,7 +13,7 @@
         <td width="200">FOTO</td>
       </tr>
       <tr>
-        <td>Nama</td>
+        <td>NAMA</td>
         <td>Muhamad Al Ajis Sunandar</td>
         <td rowspan="7"><img src="![1](https://github.com/Attem07/Attem07/assets/147891599/810211d7-c029-455d-a1a1-a6bf8f7016f6)" width="200"></td>
       </tr>
@@ -30,7 +30,7 @@
         <td>Islam</td>
       </tr>
       <tr>
-        <td>Jenis Kelamin</td>
+        <td>JENIS KELAMIN</td>
         <td>Laki-laki</td>
       </tr>
       <tr>
