@@ -41,17 +41,5 @@
         <td>HOBI</td>
         <td>Olahraga</td>
       </tr>
-    <div class="container">
-      <h1>Log In></h1>
-      <form>
-        <label>Username</label><br>
-        <input type="text"><br>
-        <label>password</label><br>
-        <input type="password><br>
-        <button>Log In</button>
-
-        <a href="contact.html">Contack</a>
-        <div Coppyright @Attem 2024>
-      </form>
   </body>
 </html>
