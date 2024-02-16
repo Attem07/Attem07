@@ -19,7 +19,7 @@
       </tr>
       <tr>
         <td>TEMPAT TANGGAL LAHIR</td>
-        <td>Lumajang, 07 November 2000</td>
+        <td>Tangerang, 07 November 2000</td>
       </tr>
       <tr>
         <td>ALAMAT</td>
