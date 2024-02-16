@@ -5,7 +5,7 @@
   </head>
   <body>
     <h1 align="center">BIODATA DIRI</h1>
-    <table border="1" cellspacing="0" cellpadding="5" align="center" width="800">
+    <table border="1" cellspacing="1" cellpadding="1" align="center" width="500">
       <tr align="center" bgcolor="#7FFFD4">
         <td width="200">DATA DIRI</td>
         <td width="400">KETERANGAN</td>
@@ -22,7 +22,7 @@
       </tr>
       <tr>
         <td>ALAMAT</td>
-        <td>Kp. cilongok Sukamantri</td>
+        <td>Kp. Cilongok Sukamantri</td>
       </tr>
       <tr>
         <td>AGAMA</td>
@@ -39,6 +39,7 @@
       <tr>
         <td>HOBI</td>
         <td>Bulu Tangkis</td>
+        <button>NEXT</button>
       </tr>
   </body>
 </html>
