@@ -14,16 +14,16 @@
       </tr>
       <tr>
         <td>Nama</td>
-        <td>Rafli Al Fajar</td>
+        <td>Muhamad Al Ajis Sunandar</td>
         <td rowspan="7"><img src="![1](https://github.com/Attem07/Attem07/assets/147891599/810211d7-c029-455d-a1a1-a6bf8f7016f6)" width="200"></td>
       </tr>
       <tr>
         <td>TEMPAT TANGGAL LAHIR</td>
-        <td>Lumajang, 08 November 2001</td>
+        <td>Lumajang, 07 November 2000</td>
       </tr>
       <tr>
         <td>ALAMAT</td>
-        <td>Jatiroto, Lumajang</td>
+        <td>Kp. cilongok Sukamantri</td>
       </tr>
       <tr>
         <td>AGAMA</td>
@@ -39,7 +39,7 @@
       </tr>
       <tr>
         <td>HOBI</td>
-        <td>Olahraga</td>
+        <td>Bulu Tangkis</td>
       </tr>
   </body>
 </html>
