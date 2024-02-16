@@ -13,6 +13,8 @@
         <label>password</label><br>
         <input type="password><br>
         <button>Log In</button>
+
+        <a href="contact.html">Contack</a>
         <div Coppyright @Attem 2024>
       </form>
   </body>
