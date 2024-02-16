@@ -7,7 +7,7 @@
   <body>
     <h1 align="center">BIODATA DIRI</h1>
     <table border="1" cellspacing="0" cellpadding="5" align="center" width="800">
-      <tr align="center" bgcolor="#1fe5d5">
+      <tr align="center" bgcolor="#7FFFD4">
         <td width="200">DATA DIRI</td>
         <td width="400">KETERANGAN</td>
         <td width="200">FOTO</td>
