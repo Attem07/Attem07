@@ -2,7 +2,6 @@
 <html>
   <head>
     <title>Biodata Diri</title>
-    <link rel="stylesheet" href="style.css">
   </head>
   <body>
     <h1 align="center">BIODATA DIRI</h1>
